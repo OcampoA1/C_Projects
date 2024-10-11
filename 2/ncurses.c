@@ -1,4 +1,5 @@
 #include <ncurses.h>
+/*sudo apt-get install libncurses libncurses-dev for install library*/
 
 int main() {
 	
